@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1163acd3-8b21-4354-a99b-f0b8b37d8596" alt="Logo Org"/>
+</p>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/STATUS-%20COMPLETADO-green" />
+</p>
+
+<h1 align="center">Mi organización</h1>
+
+<p>Este proyecto permite crear grupos de trabajo en diferentes áreas laborales, permitiendo agregar colaboradores a cada área de trabajo.</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
